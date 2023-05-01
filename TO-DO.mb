@@ -1,0 +1,5 @@
+# TO-DO
+
+- Autenticação com AWS Cognito
+- Upload de arquivos com o AWS S3
+- Interação com banco de dados RDS
